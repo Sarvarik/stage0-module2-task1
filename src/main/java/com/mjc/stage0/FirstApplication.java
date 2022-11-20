@@ -1,7 +1,7 @@
 package com.mjc.stage0;
 
-public class FirstApplication {
+public class FillGapsApp {
     public static void main(String[] args) {
-        // Write your code here!
+     System.out.println("Fixed");
     }
 }
