@@ -1,4 +1,3 @@
-#package main
 //1) Fill in the gaps to make an application write data to console: fill the gaps to print "Fixed" to console with a new line. Use code snippet provided here (each word should begin with a new line):
 public class FillGapsApp {
     public static void main(String[] args) {
@@ -6,7 +5,6 @@ public class FillGapsApp {
     }
 }
 
-#package two
 //2) Print words.
 //Make console output like: "java" + \n "is" + \n +"smth". Create java program that will write to console: java is smth
 
@@ -17,7 +15,6 @@ public class PrintWordsApp {
 System.out.println("java"+"\n is"+"\n smth");
     }
 }
-#package three
 //3) Print sentence.
 //Create main method and make console output: "This is my first Java program". Create java program that will write to console: This is my first Java program
 
@@ -28,7 +25,6 @@ public class PrintSentenceApp {
     System.out.println("This is my first Java program");
     }
 }
-#package four
 //4) Broken app.
 //Given piece of code (not compiling one), fill everything that is missing for the program and compile and build it. Do that inside of a code snippet here (each word should begin with a new line):
 
@@ -37,7 +33,6 @@ public class BrokenApp {
         System.out.println("fixMe");
     }
 }
-#package five
 //5) Update class.
 //Update this class to make an output: "I'm updated can be compiled. And can write to console"
 
